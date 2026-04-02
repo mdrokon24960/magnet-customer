@@ -1,4 +1,4 @@
-import type { ButtonHTMLAttributes, ReactNode, MouseEvent } from 'react';
+import type { ButtonHTMLAttributes, ReactNode } from 'react';
 import { useState } from 'react';
 
 interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
